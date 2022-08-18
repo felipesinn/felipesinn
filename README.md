@@ -1,8 +1,9 @@
+## Hi, sou felipe sinn.
 
+🎸 Sou cantor e guitarrista nos finais de semanas e gostou de ouvir músicas de qualidade.
+🔍 Atualmente estou estudando HTML,CSS,JS e futuramente pretendo aprender Java e Pyton.
+💻 Trabalho em uma empressa que presta serviço tecnico em informática para os mais diversos fins, e estou em processo de migração de carreira para area de desenvolvimento de Software.
 
-
-
-## Hi, sou felipe sinn..
 <div align="center">
   <a href="https://github.com/felipesinn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipesinn&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
