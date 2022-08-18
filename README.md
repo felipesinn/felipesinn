@@ -1,6 +1,6 @@
 ## Hi, sou Felipe Sinn.
 
-🎸 Sou cantor e guitarrista nos finais de semanas e gosto de ouvir músicas de qualidade.
+🎸 Sou cantor e guitarrista nos finais de semanas e gosto de ouvir uma boa música de qualidade.
 
 🔍 Atualmente estou estudando HTML,CSS,JS e futuramente pretendo aprender Java e Pyton.
 
