@@ -1,4 +1,4 @@
-## Hi, sou felipe sinn.
+## Hi, sou Felipe Sinn.
 
 🎸 Sou cantor e guitarrista nos finais de semanas e gostou de ouvir músicas de qualidade.
 
