@@ -1,7 +1,9 @@
 ## Hi, sou felipe sinn.
 
 🎸 Sou cantor e guitarrista nos finais de semanas e gostou de ouvir músicas de qualidade.
+
 🔍 Atualmente estou estudando HTML,CSS,JS e futuramente pretendo aprender Java e Pyton.
+
 💻 Trabalho em uma empressa que presta serviço tecnico em informática para os mais diversos fins, e estou em processo de migração de carreira para area de desenvolvimento de Software.
 
 <div align="center">
