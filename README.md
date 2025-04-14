@@ -1,4 +1,7 @@
-<img src="https://github-readme-stats.vercel.app/api?username=felipesinn&show_icons=true&theme=react&v=1" />
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=felipesinn&show_icons=true&hide_title=false&hide_border=true&card_width=480&bg_color=0d1117&title_color=2095d8&text_color=c9d1d9&icon_color=2095d8&theme=react&v=1" 
+/>
+
 
 
 <br>
