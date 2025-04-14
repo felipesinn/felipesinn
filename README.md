@@ -1,3 +1,4 @@
+<img src="https://img.shields.io/badge/Felipe's%20GitHub%20Stats-2095d8?style=for-the-badge&logo=github&logoColor=white" />
 
 <br>
 
