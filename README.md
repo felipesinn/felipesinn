@@ -19,7 +19,7 @@
   </table>
 </div>
 
-[![Felipe's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=felipesinn&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Felipe's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=felipesinn&theme=react-dark&v=1)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 
 ### My Skills
@@ -46,4 +46,5 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2095d8&height=120&section=footer"/>
+
 
