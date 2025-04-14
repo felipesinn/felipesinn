@@ -1,4 +1,3 @@
-<img src="https://github-readme-stats.vercel.app/api?username=felipesinn&show_icons=true&theme=react&v=1" />
 
 <br>
 
