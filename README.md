@@ -1,6 +1,5 @@
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=felipesinn&show_icons=true&hide_title=false&hide_border=true&card_width=480&bg_color=0d1117&title_color=2095d8&text_color=c9d1d9&icon_color=2095d8&theme=react&v=1" 
-/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2095d8&height=120&section=header"/>
+
 
 
 
